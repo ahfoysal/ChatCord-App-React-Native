@@ -1,0 +1,57 @@
+ 
+ 
+ style={{ backgroundColor: 'white' }
+ {details?.episodes?.map((data,index) => {
+            return <Link to={`/anime/watch/${details.id}?ep=${data.id}`} 
+            key={data.id}>
+               <p className='li' > <span>{data.number}.  {data.title}</span>
+              <br /> <span>{data.description}</span>
+              </p></Link>
+        })}
+
+
+        Q>>/}9xTmz>JgY|
+
+https://shop.abusayeeed.xyz/wp/?rest_route=/simple-jwt-login/v1/users&email=test1@gmail.com&password=test1234&user_login=hello&THISISMySpeCiaLAUthCodee=THISISMySpeCiaLAUthCodee
+
+
+https://shop.abusayeeed.xyz/wp/?rest_route=/simple-jwt-login/v1/auth&email=foysal21@gmail.com&password=new1234&THISISMySpeCiaLAUthCodee=THISISMySpeCiaLAUthCodee
+
+
+
+https://shop.abusayeeed.xyz/wp/?rest_route=/simple-jwt-login/v1/auth&username=hello&password=test1234&THISISMySpeCiaLAUthCodee=THISISMySpeCiaLAUthCodee
+
+https://shop.abusayeeed.xyz/wp/?rest_route=/simple-jwt-login/v1/users&email=test2@gmail.com&password=test1234&user_login=hello&THISISMySpeCiaLAUthCodee=THISISMySpeCiaLAUthCodee
+const object =  jwt_decode(token);
+
+
+<Text style={{textDecorationLine: 'line-through', textDecorationStyle: 'solid'}}>
+
+
+ const test =  data?.subtitles?.map(sub =>  {
+      return {kind:"captions", src:`${sub.url}`, label:`${sub.lang}`}
+  
+      })
+
+
+      {product?.attributes.length >= 1 && <>
+  {product?.attributes.map((att) => {
+    return <><Text>{att.name} : {att?.option} </Text>
+      
+    
+    
+    
+    </>
+  })}
+
+  
+  </> }
+
+  <FlatList
+            data={pro.attributes}
+            keyExtractor={(item) => item.id}
+            renderItem={({item}) => <Button  style={{color: 'white'}} title='ok'/> }
+            numColumns={3}
+
+
+          />
